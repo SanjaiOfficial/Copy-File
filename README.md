@@ -24,15 +24,22 @@ The four function is used to take each line from the main file.
 
 ## PROGRAM:
 ```
-#Developed by : SANJAI L
-#Register No : 212223230184
-with open ("text.txt") as fp:
-  with open("file.txt","w") as fp1:
-    line= fp.read()
-    fp1.write(line)
+#Program for copying the contents from one file to another file
+#Developed by: SANJAI L
+#RegisterNumber: 212223230184
+with open("text.txt",'r') as fp:
+    msg1=fp.read()
+with open("file.txt",'w') as fp1:
+    fp1.write(msg1)
+
 ```
 ### OUTPUT:
-![image](https://github.com/SanjaiOfficial/Copy-File/assets/151763180/35bcf9c3-23aa-437c-90ca-ec86cd9d158f)
+![Screenshot 2024-05-11 190709](https://github.com/SanjaiOfficial/Copy-File/assets/151763180/c4b5d36d-1d45-4474-998e-89a705b66ba1)
+
+![Screenshot 2024-05-11 190729](https://github.com/SanjaiOfficial/Copy-File/assets/151763180/f35b878e-6040-48b0-b280-f66dc78a49f8)
+
+![image](https://github.com/SanjaiOfficial/Copy-File/assets/151763180/fee824ae-13ef-4492-8c01-cf85db1d1ce9)
+
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file executed successfully.
