@@ -34,11 +34,8 @@ with open("file.txt",'w') as fp1:
 
 ```
 ### OUTPUT:
-![Screenshot 2024-05-11 190709](https://github.com/SanjaiOfficial/Copy-File/assets/151763180/c4b5d36d-1d45-4474-998e-89a705b66ba1)
+![image](https://github.com/SanjaiOfficial/Copy-File/assets/151763180/293d1cb9-d247-4091-ab77-b20c61381ab7)
 
-![Screenshot 2024-05-11 190729](https://github.com/SanjaiOfficial/Copy-File/assets/151763180/f35b878e-6040-48b0-b280-f66dc78a49f8)
-
-![image](https://github.com/SanjaiOfficial/Copy-File/assets/151763180/fee824ae-13ef-4492-8c01-cf85db1d1ce9)
 
 
 ## RESULT:
